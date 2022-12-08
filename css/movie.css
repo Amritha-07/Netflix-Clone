@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: 'Bebas Neue', cursive;
+    background-color: black;
+}
+#heads{
+    text-align: right !important;
+}
+header{
+    background-color: black;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    height: 90px !important;
+}
+.logo{
+    height: 90px !important;
+    width: 180px !important;
+    margin: 0px !important;
+}
+p{
+    color: white;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: left !important;
+    padding-right: 50px !important;
+    padding-top: 30px !important;
+}
+.poster{
+    background-image: url("../movies/adam.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    background-attachment: fixed;
+}
+.poster ul{
+    background-color: transparent;
+    padding-top: 50px;
+    padding-left:400px;
+    padding-right:400px;
+    justify-content: space-between;
+    display: flex;
+    font-size: 30px;
+    color: black;
+}
+li{
+    background-color: transparent;
+}
+.title{
+    padding: 10px;
+    color: aliceblue;
+    font-size: 30px
+}
+#slider {
+    width: 720px;
+    height: 400px;
+    overflow: hidden;
+}
+
+#slider .slides {
+    display: block;
+    width: 6000px;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+}
+
+#slider .slide {
+    float: left;
+    list-style-type: none;
+    width: 720px;
+    height: 400px;
+}
+.carousel{
+    width:80% !important;
+    margin-left:10% !important;
+    margin-right: 10% !important;
+    margin-bottom: 10% !important;
+    background:rgba(0, 0, 0, 0.6) !important;
+}
+img{
+    float:left;
+    width:75% !important;
+    height: 460px !important;
+    margin: 70px 0px 70px 100px !important;
+   /* border: 5px solid rgba(212, 159, 86, 0.6) !important;*/
+   box-shadow: 0px 10px 20px 17px 10px rgba(0, 0, 0, 0.6) !important;
+    
+}
+.flexcontent{
+    display: flex !important;
+}
+.image
+{
+    float: left !important;
+    width:43% !important;
+    border: 10px salmon !important;
+}
+.carousel-caption{
+    position:  relative !important;
+    padding-top: 10% !important;
+    float:right !important;
+    width: 30% !important;
+}
+h5, p{
+    color:white !important;
+}

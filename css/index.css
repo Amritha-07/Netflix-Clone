@@ -1,0 +1,49 @@
+body {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	background-image: url("../movies/background.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+div {
+	padding-top: 10px;
+	width: 30%;
+	height: 400px;
+	margin: auto;
+	margin-top: 200px;
+	background-color: #00000077;
+	border-radius: 25px;
+}
+
+h2 {
+	margin: 30px;
+	color: #ffffff;
+}
+
+form {
+	text-align: center;
+	margin: 10px auto;
+	font-size: 30px;
+}
+
+input {
+	width: 75%;
+  	padding: 12px 20px;
+  	margin: 8px 0;
+	margin: 10px;
+	background-color: #151515;
+	box-sizing: border-box;
+  	border: none;
+  	border-radius: 5px;
+  	color: #a4a4a4;
+}
+
+.sub {
+	width: 75%;
+  	padding: 12px 20px;
+  	margin: 8px 0;
+	background-color: #bb0000;
+	border: none;
+	border-radius: 5px;
+	font-size: 15px;
+}
