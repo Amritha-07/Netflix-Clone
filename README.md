@@ -1,4 +1,4 @@
-"# OTT_Clone" 
+# OTT_Clone
 
 ![image](https://user-images.githubusercontent.com/74042644/206734452-f982f9de-9010-4539-81c6-e40d5f864682.png)
 
