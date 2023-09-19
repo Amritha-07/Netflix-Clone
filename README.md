@@ -1,6 +1,16 @@
-# OTT-Clone
+# Netflix-Clone
 
-A basic Front-end with HTML, CSS and JS 
+Basic replication of Netflix platform
+
+## Tech-Stack
+
+- HTML
+- CSS
+- JavaScript
+
+## Deployment
+
+Here's a live deployment - https://amritha-07.github.io/Netflix-Clone/
 
 ![image](https://user-images.githubusercontent.com/74042644/206734452-f982f9de-9010-4539-81c6-e40d5f864682.png)
 
@@ -8,6 +18,4 @@ A basic Front-end with HTML, CSS and JS
 
 ![image](https://user-images.githubusercontent.com/74042644/206734564-18d35ed1-d3b4-4177-bb43-b34ac0470a2c.png)
 
-## Deployment
 
-Here's a live deployment - https://amritha-07.github.io/Netflix-Clone/
