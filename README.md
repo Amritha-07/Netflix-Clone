@@ -29,7 +29,7 @@ Here's a live deployment - https://amritha-07.github.io/Netflix-Clone/
 - The application mimics the layout and style of Netflix, with a dark theme, a logo, a navigation bar, and a footer.
 - The application has a profile page that let's you hover over the profile pictures.
 
-##Installation and Usage
+## Installation and Usage
 
 To install and run this project, you need to have a web browser (such as Chrome or Firefox) that supports HTML, CSS, and JavaScript.
 
